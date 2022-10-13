@@ -1,3 +1,5 @@
+// Základní instance třídy - zapsání do ní - vypsání informací z třídy
+
 #include <iostream>
 using namespace std;
 
